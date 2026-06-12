@@ -36,7 +36,7 @@ I'm a passionate developer whose work spans the entire stack—from **modern web
 
 ## 🌟 Featured Projects
 - **[Portfolio](https://hari-pi.github.io/portfolio/)**: My primary hub showcasing all major projects, apps, and system hacks.
-- **[PetOpt](https://github.com/Hari-Pi/Pet-Opt):** A mobile app built to track and optimize pet health data, built with Dart/Flutter.
+- **[PetOpt](https://github.com/Hari-Pi/Pet-Opt):** A mobile app built to track and optimize pet adoption, built with Dart/Flutter.
 - **[CaseAtlas](https://github.com/Hari-Pi/CaseAtlas):** A modern web platform for tracking cases and managing persistent official updates using TypeScript.
 - **[a7y18lte-Resources](https://github.com/Hari-Pi/a7y18lte-Resources):** Deeply customized device trees, custom kernels, and recovery tools for the Galaxy A7 (Exynos7885).
 - **[Sys-Config](https://github.com/Hari-Pi/Sys-Config):** A tool to set up popular Linux distros via a JSON config file without external dependencies.

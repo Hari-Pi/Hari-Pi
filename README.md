@@ -1,9 +1,15 @@
 # Hi there 👋, I'm Hari-Pi
 
+<div align="center">
+  <a href="https://hari-pi.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Interactive_Portfolio-121011?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+<br/>
+
 I'm a passionate developer whose work spans the entire stack—from **modern web and mobile apps** to **low-level Linux systems and Android kernels**.
 
 ## 🚀 About Me
-- 💻 **Check out my full interactive portfolio:** [hari-pi.github.io/portfolio](https://hari-pi.github.io/portfolio/)
 - 🔭 I’m currently building tools like **CaseAtlas**, **SyncPlayer**, and **PetOpt**.
 - 🌱 I specialize in **TypeScript, Next.js, Flutter (Dart), and Python**.
 - 🐧 I also have deep experience in **Linux configurations, custom Android ROMs/Kernels (Exynos), and TWRP building**.

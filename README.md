@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>To explore my complete body of work and featured projects, please visit my interactive portfolio:</strong></p>
-  <a href="https://hari-pi.github.io/portfolio/">
+  <a href="https://hari-pi.github.io/Portfolio/">
     <img src="portfolio-btn.svg" alt="Portfolio" width="400" />
   </a>
 </div>

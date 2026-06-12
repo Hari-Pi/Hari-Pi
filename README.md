@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hari-Pi
+# Hi there 👋, I'm Hari
 
 <div align="center">
   <p><strong>To explore my complete body of work and featured projects, please visit my interactive portfolio:</strong></p>

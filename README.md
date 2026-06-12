@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Hari-Pi
 
 <div align="center">
-  <h2>
-    <a href="https://hari-pi.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-20232A?style=for-the-badge" height="50" alt="Portfolio" />
-    </a>
-  </h2>
+  <a href="https://hari-pi.github.io/portfolio/">
+    <img src="portfolio-btn.svg" alt="Portfolio" width="400" />
+  </a>
 </div>
 <br/>
 
